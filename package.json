@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "package": "ares-package app"
+  },
+  "dependencies": {
+    "@webos-tools/cli": "^3.2.1"
+  }
+}

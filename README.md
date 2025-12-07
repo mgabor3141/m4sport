@@ -1,11 +1,8 @@
-# Hosted Web App Sample
+# mtv-webos
 
-This sample app will help you have better understanding on a hosted web app.
+Attempt at running and debugging a hosted web app on WebOS 5
 
-It implements URL redirection to the webOS TV Developer site using the JavaScript.
+## Resources:
 
-You just use redirection code like normally use.
-
-```javascript
-window.location.href = "https://webostv.developer.lge.com/";
-```
+https://www.webosbrew.org/develop/guides/web-app/
+https://webostv.developer.lge.com/develop/getting-started/app-debugging
